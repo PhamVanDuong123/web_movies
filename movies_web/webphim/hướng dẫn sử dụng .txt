@@ -1,0 +1,3 @@
+code này được share bởi : tuấn ori it ( youtube : bom.to/tuanori )
+ config ở : libs/db.php
+set quyền admin : tự vọc
