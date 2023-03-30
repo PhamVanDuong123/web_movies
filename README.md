@@ -8,6 +8,6 @@
 2. Set name DB_DATABASE=assflim 
 3. Run project with http://localhost/web_movies/index.php
 ## user_admin
-How to run project with role Admin 
---user: vanduong
---password: 111111111Aa
+-How to run project with role Admin 
+- user: vanduong
+- password: 111111111Aa
