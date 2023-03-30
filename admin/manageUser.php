@@ -31,7 +31,7 @@
                             <input class="form-control form-control-lg form-control-borderless" type="search" placeholder="Search user" name="user">
                         </div>
                         <div class="col-md-4">
-                            <button class="btn btn-lg btn-primary" type="submit" name="button_search" style="padding: 8px">Search</button>
+                            <button class="btn btn-lg btn-primary" type="submit" name="button_search" style="padding: 8px">Show And Search</button>
                         </div>
                     </div>
                 </form>
