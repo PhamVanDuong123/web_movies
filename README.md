@@ -1,6 +1,8 @@
 # web_movies
-                              ![image](https://user-images.githubusercontent.com/72380296/228866889-49457581-7ce8-4f6e-bae6-c78774b9b924.png)
-                              ![image](https://user-images.githubusercontent.com/72380296/228867552-7ccc1b9b-0193-4594-8983-b32c29c56bf4.png)
+                             ![Screenshot_1](https://user-images.githubusercontent.com/72380296/228869517-08464f15-a355-49fe-80e6-756f469655c2.png)
+                              
+                             ![Screenshot_2](https://user-images.githubusercontent.com/72380296/228869606-ff34576c-50ae-4aeb-b060-64609e396053.png)
+
 
 ## Setup Project
 1. Clone the repo and cd into it
